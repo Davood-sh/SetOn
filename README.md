@@ -7,5 +7,6 @@ carry to the others.
 2. fear of missing out: many users in the past missed an event that they would have liked to 
 attend. This is caused by the focus that other platforms put on long term planning, while short 
 term planning allows users to be more aware of events that surround them.
+
 The goal of our project is to bring people together to explore real-life events and join meaningful 
 communities
